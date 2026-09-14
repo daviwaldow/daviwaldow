@@ -1,28 +1,75 @@
-[README.md](https://github.com/user-attachments/files/32204483/README.md)
-<h1 align="center">Hi, I'm Davi Waldow 👋</h1>
-<h3 align="center">Computer Engineer · Technical Support & Software Development</h3>
+[README_2.md](https://github.com/user-attachments/files/32205650/README_2.md)
+<table>
+<tr>
+<td valign="top">
 
-<p align="center">
-  <a href="https://linkedin.com/in/daviwaldow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:daviwaldow@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+# Davi Waldow
 
-```text
-$ whoami --verbose
+Computer Engineer, focused on software development
 
-Name:        Davi Waldow
-Role:        Technical Support & Systems Development Analyst @ Cyflink
-Education:   B.Eng. Computer Engineering, Universidade Anhembi Morumbi (2021-2026)
-Location:    Brazil
-Stack:       Angular, TypeScript, Node.js, NestJS, Parse Server, AWS S3
-Certified:   Oracle Cloud Infrastructure Architect Associate, Angular 19 (Udemy)
-Currently:   Building Vicejo, a full-stack personal agenda / SaaS side project
-Fun fact:    Built an ESP32 mini-sumo robot that won 1st place in a regional competition
+<a href="https://www.linkedin.com/in/davi-waldow/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:daviwaldow@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</td>
+<td valign="top">
+
 ```
+                                  --  :----- --:--
+                            -------....   ...:-=  =-
+                          =-::.:-...... ........:= -=
+                       =-.::..-..  ..:::..    ......:-==
+                     --=:=...::.::..:..        .. .  ...--
+                    -+++-:--::-..::.    .               ..:
+                  =++++=--:=:.-:-:.   ..      ..       .  ..-
+                 +++=+-:-:.:=--:... ...  ...::::::..    . ....-
+                ==+==::-::--=-.:.. ......::-------::..   . ..:.-
+                ++---:..:-=:.=-:..::::.::---======--::.     ..::=
+               ++-..:.:--.:=-: ..:::::::--========---:..      ..-
+              -=:==----:::....:::--:::--===+++++=====-:..   ....-
+               :---:.:.:.....:----:--+++++++++++======--:.  ...:-
+               --:::::.....:-=+=+--+++++++++++===-::...:=- ....-
+                -..:...:-::-=++-.......:---++-:...::-=++++.  :=
+                 :. .....+**+=++++=-:::--+*#+=-:.....:+=+*: -
+                  -:: ...*%%%#*+*-::.=::=+#%*+-:::::-=+++*-==
+                    --.-:*@@@%###*++==-=*#%@%++=-----=+++*+=-
+                    **%%-+@@@@@%%%#**+*#%%%@%*+++=====+++**+-
+                    **%*#+@@@@@@%%%#*##%%%%@@*+*+=====+++**.=
+                    #@#++#%@@@%%%%###****%*-*==--=====+++**:+
+                     %%+*@*%%%%####*******+**========+++**+++
+                      %@@%%%%%%%%######%%%#+=::-:-=+++++*++
+                        *%#%%%%##%#%%%%#+*#+===:-=+==++++++
+                        -..%%%%#####%#+++:.....::::=-++++++
+                        --:#%%%%####%*++*#*+=---=+++=+++++=
+                         -:*%%%######****++=::.:-====++++=
+                          :-@%******#****###*+====+++++=-
+                            %@%#+++****###**+=-=-=-==-=
+                           @@@%#**++--=++==-:::::::-++
+                          @@@@@@@**++====-::...:-=+++=
+                         @@@@@@@@@@%++====++==::=++**=
+                     +=-::-@@@@@@@@%%##=======--=++*+
+                   +=-:::...:%@@@%%%%##**+--=---=+**==
+                =--::::.......:#%%%%%###****+-==++*:*-
+             =-::::.............=###%####****#+==-:*#
+          ==:::::.................=*####*****#+=-*###.
+        +-::::::................ ...-*#####*#......-%.
+     +=:::::::::................. ... -*###=.  .....#- :
+ ++-::::::::::::..................    . :=:::.   ..-=*  :
++=::::::::::........................ .  ...-=--.  .=--. .:
+::::::::..............................      .=+..  :++.  ..:
+-.:::::............. ...................   .      : ++=  ....:
+.::::......... ..     ...................  .     .  -**  ......:
+.::::........  .. .  . .  . ....... .......   .  ...-*- ..........:
+:::::......... .  .      .. ................       ...  .............:
+::::..........          ... ....................    .   ................:
+```
+
+</td>
+</tr>
+</table>
 
 ### About
 
-I work remotely at **Cyflink**, where I split my time between technical support and software development. I build and maintain Angular/TypeScript front ends backed by Node.js and Parse Server, with AWS S3 for storage. I also handle IT support for **Faculdade IBG**, a Brazilian higher education institution.
+I'm a Computer Engineer working remotely at **Cyflink**, where I build and maintain software: mostly Angular/TypeScript front ends backed by Node.js and Parse Server, with AWS S3 for storage. Part of my role also covers technical support and IT for **Faculdade IBG**.
 
 Outside of work I like building complete projects from start to finish, from the database schema to a finished UI.
 
@@ -53,4 +100,4 @@ Outside of work I like building complete projects from start to finish, from the
 
 ### Get in Touch
 
-Open to software development opportunities. Feel free to reach out on [LinkedIn](https://linkedin.com/in/daviwaldow) or by [email](mailto:daviwaldow@gmail.com).
+Open to software development opportunities. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/davi-waldow/) or by [email](mailto:daviwaldow@gmail.com).
